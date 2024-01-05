@@ -2,11 +2,6 @@
 
 This is a React application bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Project Structure
-
-The project has the following structure:
-
-
 ## Available Scripts
 
 In the project directory, you can run:
